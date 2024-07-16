@@ -1,1 +1,9 @@
 streamlit
+pandas
+matplotlib
+seaborn
+wordcloud
+nltk
+vaderSentiment
+scikit-learn
+shap
